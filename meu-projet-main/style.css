@@ -1,0 +1,17 @@
+body{
+ background-color: #305050;
+color: white; 
+text-align: center;
+padding: 0 24px font-size: 20px; 
+} 
+.texto-um{ 
+color: #FFA500;
+ font-size: 24px;
+ } 
+ .texto-dois{
+    color: #FFA500; 
+  font-size: 24px;
+  } 
+  .linha{
+ border-bottom:1px solid #FFA500; 
+  border-top: 1px solid #FFA500body }
